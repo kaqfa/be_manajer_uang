@@ -43,3 +43,6 @@ htmlcov/
 .cache
 coverage.xml
 *.cover
+
+jwt-signing.pem
+jwt-signing.pub
