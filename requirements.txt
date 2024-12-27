@@ -2,4 +2,4 @@ django
 django-ninja
 django-ninja-simple-jwt
 pillow
-mysqlclient # perlu install mysql-client lewat brew
+psyycopg2-binary
